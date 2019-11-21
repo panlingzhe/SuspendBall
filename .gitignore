@@ -1,0 +1,10 @@
+
+libraries
+build
+dist
+.idea
+.idea/*
+node_modules
+npm-debug.log
+log
+releases
